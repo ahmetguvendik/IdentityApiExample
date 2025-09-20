@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nr3TMy2hG89ydGAZHl0VWapH5dENCTOMecyNAAa5QIU=",
+  "Source": "IdentityApiExample",
+  "BasePath": "_content/IdentityApiExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
