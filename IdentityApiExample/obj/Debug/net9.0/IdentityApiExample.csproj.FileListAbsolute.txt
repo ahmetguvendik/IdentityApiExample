@@ -156,3 +156,5 @@
 /Users/ahmetguvendik/Desktop/untitled folder/Project/IdentityApiExample/IdentityApiExample/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/ahmetguvendik/Desktop/untitled folder/Project/IdentityApiExample/IdentityApiExample/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/ahmetguvendik/Desktop/untitled folder/Project/IdentityApiExample/IdentityApiExample/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/IdentityApiExample/IdentityApiExample/bin/Debug/net9.0/Microsoft.AspNetCore.DataProtection.EntityFrameworkCore.dll
+/Users/ahmetguvendik/Desktop/untitled folder/Project/IdentityApiExample/IdentityApiExample/obj/Debug/net9.0/IdentityApiExample.sourcelink.json
